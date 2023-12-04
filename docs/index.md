@@ -1,89 +1,70 @@
 ---
-layout: cv
-title: Brigham Young's Resume
+layout: resume
+title: Ethan M. Iba
 ---
-# Brigham Young
-The second prophet of The Church of Jesus Christ of Latter-day Saints.
 
-<div id="webaddress">
-<a href="datascience@byui.edu">datascience@byui.edu</a>
-| <a href="https://byuidatascience.github.io/development.html">Data Science Program</a>
-| <a href="https://www.linkedin.com/groups/13537407/">LinkedIn</a>
-| <a href="https://github.com/byuids-resumes">GitHub</a>
-</div>
-
-<!-- https://www.monique.tech/the-art-of-markdown -->
+<p style="text-align": center><font size = "2">ethaniba7@gmail.com · www.linkedin.com/in/ethaniba · 913.609.7949 </font></p> 
 
 ## Education
 
-`2025-2027`
-__LDS Business College__, Salt Lake City, UT
+### Bachelor of Science in Accounting
 
-- Full academic scholarship with 4.0 GPA
-
-`Expected 2029`
+`Dec. 2023`
 __Brigham Young University - Idaho__, Rexburg, ID
 
-- 4.0 Major GPA
+- GPA: 3.85
+- Area of interest: Tax
+- Certificate in Data Science: MySQL, IDEA, Tableau
 
 
-## Related Experience
+## Experience
 
-### Internships
+### Audit Intern
 
-`January 2028 - June 2028`
-__Pacific Northwest National Lab__, Richland, WA
+`Jun. 2023 - Aug. 2023`
+__Ernst & Young LLP__, Kansas City, MO
 
-- Worked on novel methods for soil sampling to reduce laboratory measurements
-- Used R and Visual Sample Plan to establish new sampling algorithms
-- Published a journal article in Environmental Quality.
-
-### Data Science Lead
-
-`April 2027 - June 2027`
-__Westmark Credit Union__, Consultant
-
-- Developed a predicted model to support Westmark in custumer conversion from dealer loans.
-- Used R and Python to build a machine learning model using CatBoost in Python and the Tidyverse for data visualization and munging. 
-- Improved previous model development to over 85% balanced accuracy. Expect model to be implemented in Westmark business practices.
-
-`September 2027 - April 2028`
-__Good2Go__, Consultant
-
-- Built product ordering and supply predictive algorithms for chips and beverages categories
-- Established standardized SQL calls and connections for PowerBI dashboards
-- Found over $35k in waste and saved over 200 annual hours of store quality control work 
-
-### Data Science Consulting Team
-
-`January 2027 - April 2027`
-__Imagine Learning__
-
-- Build web scraping tool to find and format school district technology data.
-- Used R and the Rvest package to parse and format web data.
-- Saved 30 hours a month with the automated scripts.
-
-`April 2027 - July 2027`
-__Pinnacle Management Group__, 
-
-- Proof of concept development of dashboards using client's corporate data.
-- Built and documented differences of PowerBI, Google Dashoards, and Tableau.
-- Saved client $10k in database and dashboard server fees and validated future dashboard processes.
+- Mapped trial balance in Excel with 40K transactions to check figures
+- Identified inconsistencies in internal control documentation
+- Used internal software to produce transaction summaries of specific accounts
+- Performed 15 tests of controls
 
 
-## Service and Work History
+### Intern
 
-`2025-2027`
-__Math Tutor__, LDSBC
+`Jun. 2022 – Jun. 2023`
+__Silver Spring Financial, PLLC__, Sugar City, ID
+
+- Verified payroll and sent direct deposit using QuickBooks ranging from 1-50 employees 
+- Prepared 25 partnership and S-Corp returns and 100 individual returns
+- Automated a 5 hour process using Excel VBA which now takes 10 minutes
+- Utilized QuickBooks, RightNetworks, Lacerte 2021, and Ultra Tax software 
+
+### Tax Intern
+
+`Jan. 2022 – Apr. 2022`
+__KKAJ, LLP__, Valencia, CA
+
+- Assembled and mailed 100 of Form 1099-MISC and 1099-NEC's 
+- Prepared 20 partnership tax returns and 40 individual returns 
+- Authenticated tax payments with FTB for approximately 120 clients 
+- Learned ProFx, RightNetworks, GoFileRoom, and Citrix software 
 
 
-`2023-2025`
-__Service Missionary__, South Africa
+### Full-Time Volunteer Representative
+
+`Aug. 2019 – Jul. 2021`
+__The Church of Jesus Christ of Latter-day Saints__, Queretaro, Mexico
+
+- Lead and mentored 26 volunteers in setting and achieving goals 
+- Worked 60–70 hours each week 
+- Organized activities for volunteers on days off
+- Planned and lead weekly meetings to assess progress and coach any not reaching goals
 
 
+## Interets/Skills
 
-<!-- ### Footer
-
-Last updated: May 2013 -->
-
+- Fluent in conversational Spanish
+- Experience in Tax and Audit, interested in Consulting and Forensics 
+- Hobbies include Basketball, Golf, Skiing, Movies, Music, Outdoors 
 
